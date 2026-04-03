@@ -1,4 +1,4 @@
-এই কোডটা copy করুন — এটাই app.py তে paste করবেন:
+
 import streamlit as st
 import pandas as pd
 import math
