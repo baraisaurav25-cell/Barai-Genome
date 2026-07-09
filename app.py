@@ -203,7 +203,7 @@ def optimize_with_trace(protein, original_codons, variety):
     return "".join(optimized), pd.DataFrame(trace)
 
 with st.sidebar:
-    st.markdown("<div style='font-family:Orbitron,monospace;color:#1a8cff;font-size:1.0rem;letter-spacing:2px;text-align:center;margin-bottom:15px;'>🧬 KHAN-BARAI GENOME</div>", unsafe_allow_html=True)
+    st.markdown("<div style='font-family:Orbitron,monospace;color:#1a8cff;font-size:1.0rem;letter-spacing:2px;text-align:center;margin-bottom:15px;'>🧬 DIBYA-BARAI GENOME</div>", unsafe_allow_html=True)
     st.markdown("---")
 
     # Supervisor card — highlighted at the top
