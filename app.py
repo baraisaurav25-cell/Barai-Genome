@@ -3,7 +3,7 @@ import pandas as pd
 import math
 
 st.set_page_config(
-    page_title="KHAN-BARAI GENOME",
+    page_title="DIBYA-BARAI GENOME",
     page_icon="🧬",
     layout="wide"
 )
